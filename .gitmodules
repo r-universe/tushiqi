@@ -3,8 +3,3 @@
 	url = https://github.com/r-universe-org/cran-to-git
 	shallow = true
 	branch = HEAD
-[submodule "MAnorm2"]
-	path = MAnorm2
-	url = https://github.com/tushiqi/manorm2
-	shallow = true
-	registered = true
